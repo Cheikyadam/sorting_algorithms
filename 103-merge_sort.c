@@ -3,10 +3,10 @@
 
 /**
  * merging - merging step
+ * @t: the array
  * @beg1: beginning
  * @end1: first end
  * @end2: second one
- * @t: the array
  *
  * Return: Nothing
  */
